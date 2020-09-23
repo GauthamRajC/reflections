@@ -11,6 +11,7 @@ We can add only those files required to go in the next commit to staging area, r
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches can be useful in multiple scenarios including while 2 or more developer are developing different features.
 
 How do the diagrams help you visualize the branch structure?
 
